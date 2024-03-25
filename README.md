@@ -4,7 +4,7 @@
 En éste proyecto se realiza un portafolio responsivo aplicando tecnologías y estilos aprendidos.
 
 
-## Tecnologías . 📊
+## Tecnologías 
 
 - **HTML5**
 - **CSS**
