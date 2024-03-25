@@ -39,7 +39,7 @@ header .menu .c3:hover { background: #002d44; }
 /* MAIN */
 /* Portafolio */
 .portafolio {
-	border-top: 2px solid #000000;
+	border-top: 1px solid #000000;
 	background: #fff;
 }
 
@@ -69,6 +69,7 @@ header .menu .c3:hover { background: #002d44; }
 }
 
 /* Acerca de */
+
 .acerca-de .foto .nombre {
 	color: #545454;
 	font-weight: 300;
@@ -160,8 +161,8 @@ header .menu .c3:hover { background: #002d44; }
 }
 
 .redes-sociales .icono {
-	width: 90px;
-	height: 90px;
+	width: 70px;
+	height: 70px;
 	color: #fff;
 	background: #cbcbcb;
 	display: inline-block;
@@ -203,8 +204,8 @@ header .menu .c3:hover { background: #002d44; }
 	}
 
 	.redes-sociales .icono svg {
-		width: 25px;
-		height: 25px;
+		width: 30px;
+		height: 30px;
 	}
 
 }
